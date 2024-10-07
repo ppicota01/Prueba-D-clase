@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang= "en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+        <title>Almuerzo</title>
+        <style>
+            body{
+                background-color: rgb(203, 240, 253);
+                
+            }
+            label {
+                display: block;
+                margin: 10px 0 5px;
+                font-weight: bold;
+            }
+            footer{
+                text-align: center;
+            }
+        </style>
+    </head>
+    
+
+    <body>
+        <header>
+            <h1 style="text-align: center;">Almuerzo</h1>
+            <img src="Imagen_Almuerzo.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%;">
+        </header>
+
+        <section> <!-- esta es la parte de ingredientes-->
+            <label>Ingredientes</label>
+            <ul>
+                <li>1 gallina de patio</li>
+                <li>12 ajíes nacionales</li>
+                <li>2 dientes de ajo</li>
+                <li>6 hojas de culantro</li>
+                <li>1 cebolla picada</li>
+                <li>¼ cda de pimienta</li>
+                <li>2 cubitos de pollo</li>
+                <li>1 lata de pasta de tomate</li>
+                <li>2 cajitas de pasitas</li>
+                <li>1 frasco de aceitunas</li>
+                <li>2 cdas de alcaparras</li>
+                <li>3 cdas de aceite vegetal</li>
+                <li>1 lata de salsa de tomate</li>
+                <li>1 lata de guisantes</li>
+                <li>2 lbs de maíz nuevo</li>
+                <li>24 hojas de Bijao</li>
+                <li>1 pelota de hilo pabilo</li>
+                <li>Sal al gusto</li>
+            </ul>
+        </section>
+
+        <section><!-- esta es la sección de procedimientos-->
+            <label>Procedimiento</label>
+            <p>A. Paso #1: Cocine el maíz pilado hasta que quede suave. Se bota el agua y en el colador se le agrega agua fría. Una vez escurrido se muele.</p>
+            <p>B. Paso#2: Aparte, sofría la gallina con los ajíes, cebolla, culantro, ajo, pimienta y sal. Luego agréguele la pasta de tomate, la salsa de tomate y los cubitos. Se deja cocinar 10 minutos y luego se le añade agua suficiente que cubra bien la gallina. Se tapa y a fuego lento se deja cocer hasta que esté suave. Colóquele las pasitas, aceitunas y alcaparras y se deja cocinar por 20 minutos más.</p>
+            <p>C. Paso#3: Finalmente, añádale los guisantes. Si tiene muy poca agua, se le puede verter un poco más. Esta salsa colada se agrega a la masa de maíz y se amasa hasta que quede bien repartido el jugo y suave la masa.</p>
+            <p>D. Paso#4: Lave bien las hojas de bijao, luego introdúzcalas en una olla con agua hirviendo y escúrralas enseguida. Corte los hilos de pabilo, lo suficientemente largos que le alcance para amarrar el tamal. En cada hoja se vierte un cucharón de masa, encima se pone una presa con los condimentos y luego se vierte medio cucharón más de masa, se envuelve y amarra. Se repite este procedimiento hasta emplear toda la masa.</p>
+            <p>E. Paso#5: En una olla grande de agua hirviendo se introducen los tamales y se cocinan una hora. Al sacarlos, quedan listos para servir.</p>
+        </section>
+        <footer>
+            <a href="HOME.html">REGRESAR</a>
+        </footer>
+    </body>
+    
